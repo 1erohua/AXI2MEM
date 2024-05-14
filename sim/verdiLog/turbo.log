@@ -1,0 +1,3 @@
+Command Line: /usr/synopsys/vc_static-O-2018.09-SP2-2/verdi/platform/LINUXAMD64/bin/Novas -nologo -sv -f AXI2MEM.f -ssf AXI2MEM.fsdb
+uname(Linux lizhen 6.5.0-28-generic #29~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Apr  4 14:39:20 UTC 2 x86_64)
+au time 35078.582194 161.769879 206.349461 delta 1183461376 1183461376 total 1616330752 1616330752
