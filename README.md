@@ -1,4 +1,4 @@
-# 基于AXI4.0的Memor
+# 基于AXI4.0的Memory
 
 ## 关于rtl
 
